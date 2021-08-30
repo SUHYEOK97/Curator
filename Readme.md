@@ -13,8 +13,8 @@
 ## 목차
 
 - [프로젝트 소개](#프로젝트-소개)   
-  - [Key Feature](Key Feature)
-- [Gitflow 규칙](#Gitflow 규칙)
+- Gitflow <br>
+![image](https://user-images.githubusercontent.com/56239516/131271383-5c86bff3-af5d-4027-95b3-6e5af21a7190.png)
 - [프로젝트 명세](#프로젝트-명세)
   - [배포 환경](#배포-환경)
   - [개발 환경](#개발-환경)
@@ -39,8 +39,7 @@
 
 ## Gitflow 규칙
 
-
-![image](https://user-images.githubusercontent.com/56239516/131271383-5c86bff3-af5d-4027-95b3-6e5af21a7190.png)
+![image](https://user-images.githubusercontent.com/56239516/131271434-447f5286-483a-451c-ad4d-c839028cf61a.png)
 
 
 
