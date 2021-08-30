@@ -39,7 +39,8 @@
 
 ## Gitflow 규칙
 
-![image](./ReadmeImage/rules.png)
+
+![image](https://user-images.githubusercontent.com/56239516/131271383-5c86bff3-af5d-4027-95b3-6e5af21a7190.png)
 
 
 
